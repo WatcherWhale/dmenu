@@ -25,4 +25,4 @@ static unsigned int lineheight = 0;         /* -h option; minimum height of a me
 static const char worddelimiters[] = " ";
 
 /* Size of the window border */
-static unsigned int border_width = 3;
+static unsigned int border_width = 0;
